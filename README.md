@@ -2,7 +2,7 @@
 ![banner (1)](https://user-images.githubusercontent.com/82020749/206276465-e1cf087f-46f2-474b-b04f-023c552eb062.png)
 
 
-<h1 align="center">Hi 🤩, I'm Alina Bloshenko</h1>
+<h1 align="center">Hi 🤩</h1>
 <h3 align="center">I’m a computer engineering graduate 💻</h3>
 
 
